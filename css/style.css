@@ -7097,6 +7097,9 @@ button.bg-dark:focus {
 .w-75 {
   width: 75% !important;
 }
+.w-85 {
+  width: 90% !important;
+}
 
 .w-100 {
   width: 100% !important;
@@ -7124,6 +7127,9 @@ button.bg-dark:focus {
 
 .h-auto {
   height: auto !important;
+}
+.h-150{
+  height: 150% !important;
 }
 
 .mw-100 {
@@ -7342,6 +7348,10 @@ button.bg-dark:focus {
   padding-left: 0.25rem !important;
 }
 
+.pl-10{
+  padding-left: 4rem !important;
+}
+
 .p-2 {
   padding: 0.5rem !important;
 }
@@ -7420,7 +7430,10 @@ button.bg-dark:focus {
 
 .pt-5,
 .py-5 {
-  padding-top: 3rem !important;
+  padding-top: 2.7rem !important;
+}
+.pl-20{
+  padding-left: 11rem !important;
 }
 
 .pr-5,
@@ -7430,7 +7443,7 @@ button.bg-dark:focus {
 
 .pb-5,
 .py-5 {
-  padding-bottom: 3rem !important;
+  padding-bottom: 2.7rem !important;
 }
 
 .pl-5,
